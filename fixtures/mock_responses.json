@@ -1,1 +1,10 @@
+// fixtures/mock_responses.json
+{
+    "user_created": {
+        "message": "User created successfully"
+    },
+    "error_response": {
+        "message": "Invalid request"
+    }
+}
 
