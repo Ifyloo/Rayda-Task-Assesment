@@ -21,9 +21,9 @@ This project contains automated test suites for a user management web applicatio
 - Python 3.x
 - Selenium
 - requests
-- Locust (for performance testing)
+- JMeter (for performance testing)
 
 ## How to Run
 - API & security tests: `pytest api_tests/ security_tests/`
 - UI tests: `pytest ui_tests/`
-- Performance tests: `locust -f performance_tests/load_test.py`
+- Performance tests: Run JMeter `.jmx` files in `performance_tests/`
