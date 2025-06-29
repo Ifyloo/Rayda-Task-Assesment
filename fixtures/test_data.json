@@ -1,1 +1,9 @@
+// fixtures/test_data.json
+{
+    "valid_user": {
+        "username": "sandra.moses",
+        "email": "sandra.moses@example.com",
+        "password": "SandraSecure456!"
+    }
+}
 
